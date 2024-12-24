@@ -38,7 +38,7 @@ const MainPage = () => {
 
         try {
             console.log(1);
-            const response = await axios.post('http://192.168.0.28:5000/predict', formData, {
+            const response = await axios.post('http://13.209.126.207:5000/predict', formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data',
                 },
