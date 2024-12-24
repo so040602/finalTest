@@ -2,6 +2,7 @@
   "name": "4team-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://13.209.126.207",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
